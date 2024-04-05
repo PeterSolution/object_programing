@@ -1,0 +1,7 @@
+C:\Users\112\Downloads\MB\ksiazki\app3\app3\bin\Debug\app3.exe.config
+C:\Users\112\Downloads\MB\ksiazki\app3\app3\bin\Debug\app3.exe
+C:\Users\112\Downloads\MB\ksiazki\app3\app3\bin\Debug\app3.pdb
+C:\Users\112\Downloads\MB\ksiazki\app3\app3\obj\Debug\app3.csproj.AssemblyReference.cache
+C:\Users\112\Downloads\MB\ksiazki\app3\app3\obj\Debug\app3.csproj.CoreCompileInputs.cache
+C:\Users\112\Downloads\MB\ksiazki\app3\app3\obj\Debug\app3.exe
+C:\Users\112\Downloads\MB\ksiazki\app3\app3\obj\Debug\app3.pdb

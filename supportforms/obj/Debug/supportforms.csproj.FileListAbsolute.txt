@@ -1,0 +1,14 @@
+C:\Users\112\Downloads\MB\ksiazki\app3\supportforms\bin\Debug\supportforms.exe.config
+C:\Users\112\Downloads\MB\ksiazki\app3\supportforms\bin\Debug\supportforms.exe
+C:\Users\112\Downloads\MB\ksiazki\app3\supportforms\bin\Debug\supportforms.pdb
+C:\Users\112\Downloads\MB\ksiazki\app3\supportforms\bin\Debug\app3.exe
+C:\Users\112\Downloads\MB\ksiazki\app3\supportforms\bin\Debug\app3.pdb
+C:\Users\112\Downloads\MB\ksiazki\app3\supportforms\bin\Debug\app3.exe.config
+C:\Users\112\Downloads\MB\ksiazki\app3\supportforms\obj\Debug\supportforms.csproj.AssemblyReference.cache
+C:\Users\112\Downloads\MB\ksiazki\app3\supportforms\obj\Debug\supportforms.Form1.resources
+C:\Users\112\Downloads\MB\ksiazki\app3\supportforms\obj\Debug\supportforms.Properties.Resources.resources
+C:\Users\112\Downloads\MB\ksiazki\app3\supportforms\obj\Debug\supportforms.csproj.GenerateResource.cache
+C:\Users\112\Downloads\MB\ksiazki\app3\supportforms\obj\Debug\supportforms.csproj.CoreCompileInputs.cache
+C:\Users\112\Downloads\MB\ksiazki\app3\supportforms\obj\Debug\supportforms.csproj.CopyComplete
+C:\Users\112\Downloads\MB\ksiazki\app3\supportforms\obj\Debug\supportforms.exe
+C:\Users\112\Downloads\MB\ksiazki\app3\supportforms\obj\Debug\supportforms.pdb
